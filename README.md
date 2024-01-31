@@ -2,7 +2,7 @@
 
  🚀 Olá! Sou alguém que adora enfrentar grandes desafios com a ajuda da tecnologia. Meu coração bate mais forte quando estou resolvendo problemas complexos e transformando ideias em realidade por meio do desenvolvimento web.
 
-💻 Do front end, meu caminho tem sido pavimentado com linhas de código que constroem experiências incríveis. Especialmente apaixonado pelo desenvolvimento front end com ReactTS, encontro prazer em criar interfaces interativas e responsivas que cativam os usuários.
+💻 Do front end, meu caminho tem sido pavimentado com linhas de código que constroem experiências incríveis. Especialmente apaixonado pelo desenvolvimento front end com React, encontro prazer em criar interfaces interativas e responsivas que cativam os usuários.
 
 🔍 A busca pelo desconhecido é o que me impulsiona. Sempre estou explorando novas tecnologias, conceitos e abordagens. Acredito que cada desafio traz consigo uma oportunidade de aprendizado e crescimento, e essa mentalidade me mantém em constante evolução.
 
