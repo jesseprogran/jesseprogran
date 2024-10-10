@@ -29,7 +29,7 @@ Sou um desenvolvedor Front-End apaixonado por tecnologia e aprendizado contínuo
 
 ## 📈 Projetos em Destaque
 
-- **[Mini Blog com React](link-do-seu-projeto)**: Um projeto que permite aos usuários criar e gerenciar postagens em um blog, utilizando Firebase para autenticação e armazenamento de dados.
+- **[Mini Blog com React](https://github.com/jesseprogran/miniblog)**: Um projeto que permite aos usuários criar e gerenciar postagens em um blog, utilizando Firebase para autenticação e armazenamento de dados.
 
 ##
  
