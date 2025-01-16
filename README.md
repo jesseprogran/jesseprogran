@@ -4,7 +4,9 @@
 <a href="https://www.linkedin.com/in/jesse-s-p/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-Sou um desenvolvedor Front-End apaixonado por tecnologia e aprendizado contínuo. Tenho experiência em construir aplicações responsivas e dinâmicas utilizando **React.js**, além de habilidades em **HTML**, **CSS** e **JavaScript**.
+
+Sou desenvolvedor Front-End com paixão por criar experiências digitais modernas e envolventes.
+Especializado em **React.js**, desenvolvo aplicações responsivas, interativas e com foco em desempenho. Minhas habilidades incluem **HTML**, **CSS** e **JavaScript**, que utilizo para transformar ideias em interfaces elegantes e funcionais. Estou sempre em busca de aprendizado contínuo e novas tecnologias para entregar soluções inovadoras e de alta qualidade.
 
 ## 🚀 Sobre Mim
 
@@ -22,14 +24,13 @@ Sou um desenvolvedor Front-End apaixonado por tecnologia e aprendizado contínuo
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Front-End:** HTML, CSS, JavaScript, React.js
-- **Gerenciamento de Estado:** React Hooks
 - **Versionamento de Código:** Git, Gitflow
 - **APIs RESTful:** Axios, Fetch
-- **Responsividade:** Display Grid, Breakpoints, Media Queries
+- **Responsividade:** Display Grid, Breakpoints, Media Queries,Tailwind CSS
 
 ## 📈 Projetos em Destaque
 
-- **[Mini Blog com React](https://github.com/jesseprogran/miniblog)**: Um projeto que permite aos usuários criar e gerenciar postagens em um blog, utilizando Firebase para autenticação e armazenamento de dados.
+- **[Projeto - Casa de Praia](https://casa-de-praia-phi.vercel.app/)**: Uma aplicação web projetada para apresentar uma casa de praia de maneira dinâmica e envolvente, utilizando as tecnologias HTML, CSS e JavaScript. O objetivo é oferecer uma experiência interativa e moderna, com funcionalidades que destacam a beleza do local, promovem a navegação intuitiva e garantem a responsividade em diferentes dispositivos.
 
 ##
  
